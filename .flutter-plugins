@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/Users/parjanya/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.29/
+geolocator=/Users/parjanya/.pub-cache/hosted/pub.dev/geolocator-12.0.0/
+geolocator_android=/Users/parjanya/.pub-cache/hosted/pub.dev/geolocator_android-4.6.2/
+geolocator_apple=/Users/parjanya/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/
+geolocator_web=/Users/parjanya/.pub-cache/hosted/pub.dev/geolocator_web-4.0.0/
+geolocator_windows=/Users/parjanya/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.5/
+google_maps_flutter=/Users/parjanya/.pub-cache/hosted/pub.dev/google_maps_flutter-2.12.3/
+google_maps_flutter_android=/Users/parjanya/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.18.1/
+google_maps_flutter_ios=/Users/parjanya/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.15.5/
+google_maps_flutter_web=/Users/parjanya/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.12+2/
+location=/Users/parjanya/.pub-cache/hosted/pub.dev/location-6.0.2/
+location_web=/Users/parjanya/.pub-cache/hosted/pub.dev/location_web-5.0.2/
+sensors_plus=/Users/parjanya/.pub-cache/hosted/pub.dev/sensors_plus-5.0.1/
