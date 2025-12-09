@@ -1,16 +1,15 @@
 # slam_demo
 
-A new Flutter project.
+A Flutter Based project on Comparision of Dead Reckoning And SLAM
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project, we focus on two widely used localization techniques: Dead Reckoning 
+(DR) and Simultaneous Localization and Mapping (SLAM). Both techniques aim to 
+estimate the current position of a robot or user, but they work in very different ways. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To understand these techniques clearly, we developed a Flutter-based mobile 
+application that shows how position is tracked over time. The application visually 
+displays movement paths, making it easy to see how errors occur and how accuracy 
+differs between DR and SLAM. The purpose of this project is not only to implement 
+these techniques, but also to understand their practical behavior through visual 
+output. 
